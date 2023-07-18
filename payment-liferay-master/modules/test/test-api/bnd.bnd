@@ -1,0 +1,10 @@
+Bundle-Name: test-api
+Bundle-SymbolicName: test.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	test.exception,\
+	test.model,\
+	test.service,\
+	test.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../test-service/service.xml

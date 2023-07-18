@@ -1,0 +1,11 @@
+Bundle-Name: LOVList-api
+Bundle-SymbolicName: com.ejada.LOVList.api
+Bundle-Version: 1.0.0
+
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../LOVList-service/service.xml
+Export-Package: \
+	com.ejada.LOVList.service,\
+	com.ejada.LOVList.service.persistence,\
+	com.ejada.LOVList.exception,\
+	com.ejada.LOVList.model

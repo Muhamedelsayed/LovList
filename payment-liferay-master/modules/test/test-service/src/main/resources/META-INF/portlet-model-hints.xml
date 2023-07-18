@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="test.model.Greeting">
+		<field name="uuid" type="String" />
+		<field name="greetingId" type="long" />
+		<field name="greeting" type="String" />
+		<field name="welcome" type="String" />
+	</model>
+</model-hints>

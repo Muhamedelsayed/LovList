@@ -1,0 +1,4 @@
+Bundle-Name: DataTestt
+Bundle-SymbolicName: DataTestt
+Bundle-Version: 1.0.0
+Export-Package: DataTestt.constants

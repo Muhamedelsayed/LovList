@@ -1,0 +1,10 @@
+Bundle-Name: DataTest-api
+Bundle-SymbolicName: anb.ejada.DataTest.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	anb.ejada.DataTest.exception,\
+	anb.ejada.DataTest.model,\
+	anb.ejada.DataTest.service,\
+	anb.ejada.DataTest.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../DataTest-service/service.xml

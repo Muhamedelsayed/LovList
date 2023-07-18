@@ -1,0 +1,4 @@
+Bundle-Name: lov-types
+Bundle-SymbolicName: com.ejada.lovtypes
+Bundle-Version: 1.0.0
+Export-Package: com.ejada.lovtypes.constants

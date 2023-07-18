@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="anb.ejada.DataTest.model.TESTT">
+		<field name="uuid" type="String" />
+		<field name="TestId" type="long" />
+		<field name="Data" type="String" />
+	</model>
+</model-hints>

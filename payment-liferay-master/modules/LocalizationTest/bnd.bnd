@@ -1,0 +1,4 @@
+Bundle-Name: LocalizationTest
+Bundle-SymbolicName: LocalizationTest
+Bundle-Version: 1.0.0
+Export-Package: LocalizationTest.constants
